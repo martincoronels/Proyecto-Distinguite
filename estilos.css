@@ -1,0 +1,27 @@
+@import url('https://fonts.googleapis.com/css2?family=Oswald&family=Tourney:wght@600&display=swap');
+
+/* TIPOGRAFIA
+font-family: 'Oswald', sans-serif;
+font-family: 'Tourney', cursive;
+*/
+* {
+    font-family: 'Oswald', sans-serif;
+}
+
+.letraTitulo {
+    font-family: 'Tourney', cursive;
+    font-size: 30px;
+}
+
+footer {
+    background-color: rgb(210, 207, 207);
+}
+
+.transicion{
+    transition: all .5s;
+}
+
+.transicion:hover{
+    transform: scale(1.1);
+    cursor: pointer;
+}
