@@ -1,0 +1,34 @@
+@import url("https://fonts.googleapis.com/css2?family=Oswald&family=Tourney:wght@600&display=swap");
+/* TIPOGRAFIA
+font-family: 'Oswald', sans-serif;
+font-family: 'Tourney', cursive;
+*/
+/* line 7, ../../../Proyecto2.0/scss/estilos.scss */
+* {
+  font-family: 'Oswald', sans-serif;
+}
+
+/* VARIABLES */
+/* line 14, ../../../Proyecto2.0/scss/estilos.scss */
+.letraTitulo {
+  font-family: 'Tourney', cursive;
+  font-size: 30px;
+}
+
+/* line 19, ../../../Proyecto2.0/scss/estilos.scss */
+footer {
+  background-color: #d2cfcf;
+}
+
+/* line 23, ../../../Proyecto2.0/scss/estilos.scss */
+.transicion {
+  transition: all .5s;
+}
+
+/* line 27, ../../../Proyecto2.0/scss/estilos.scss */
+.transicion:hover {
+  transform: scale(1.1);
+  cursor: pointer;
+}
+
+/*# sourceMappingURL=estilos.css.map */

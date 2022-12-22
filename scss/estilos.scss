@@ -8,8 +8,11 @@ font-family: 'Tourney', cursive;
     font-family: 'Oswald', sans-serif;
 }
 
+/* VARIABLES */
+$letraAes: 'Tourney';
+
 .letraTitulo {
-    font-family: 'Tourney', cursive;
+    font-family: $letraAes, cursive;
     font-size: 30px;
 }
 
