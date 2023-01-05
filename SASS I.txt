@@ -1,7 +1,0 @@
-SASS I 
-Pre-procesador de css. Permite escribir CSS con variables y mas tecnicas de programacion.
-Tambien creacion de funciones. 
-Anidacion: forma de organizacion.
-Entorno del scout-app en modo comprimido es el mas optimo por su bajo peso.
-IMPORT: se puede importar archivos externos con variables, funciones, etc.
-Import a archivos se hacen: _"nombredelarchivo".scss y a la hora de importarlo @import "nombredelarchivo".
