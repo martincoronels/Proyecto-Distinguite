@@ -28,3 +28,8 @@ footer {
     transform: scale(1.1);
     cursor: pointer;
 }
+
+.form-control:focus {
+    border-color: #a4a4aa;
+    box-shadow: 0 0 0 0.2rem rgba(89, 91, 90, 0.25);
+}

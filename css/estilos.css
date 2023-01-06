@@ -11,7 +11,7 @@ font-family: 'Tourney', cursive;
 /* VARIABLES */
 /* line 14, ../../../Proyecto2.0/scss/estilos.scss */
 .letraTitulo {
-  font-family: 'Tourney', cursive;
+  font-family: "Tourney", cursive;
   font-size: 30px;
 }
 
@@ -29,6 +29,12 @@ footer {
 .transicion:hover {
   transform: scale(1.1);
   cursor: pointer;
+}
+
+/* line 32, ../../../Proyecto2.0/scss/estilos.scss */
+.form-control:focus {
+  border-color: #a4a4aa;
+  box-shadow: 0 0 0 0.2rem rgba(89, 91, 90, 0.25);
 }
 
 /*# sourceMappingURL=estilos.css.map */
